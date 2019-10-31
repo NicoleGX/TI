@@ -14,7 +14,7 @@
     "body-parser": "^1.19.0",
     "element-ui": "^2.8.2",
     "express": "^4.17.1",
-    "mongoose": "^5.5.11",
+    "mongoose": "^5.7.5",
     "toastr": "^2.1.4",
     "vue": "^2.5.2",
     "vue-router": "^3.0.1"
