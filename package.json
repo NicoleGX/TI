@@ -13,7 +13,7 @@
     "axios": "^0.18.0",
     "body-parser": "^1.19.0",
     "element-ui": "^2.8.2",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "mongoose": "^5.5.11",
     "toastr": "^2.1.4",
     "vue": "^2.5.2",
